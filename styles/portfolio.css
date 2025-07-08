@@ -217,6 +217,6 @@ footer input[type="text"], footer input[type="email"], footer textarea {
 
 /* Font Awesome Style */
 
-.fa-download, .fa-phone {
+.fa-solid, .fa-download, .fa-phone {
     margin-right: 10px;
 }
